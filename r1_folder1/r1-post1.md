@@ -15,3 +15,5 @@ I've spent nearly all of my professional career leading server-side teams on the
 screaming before they could trap me in their world of Javascript-fueled insanity.
 
 With a small studio, we really can't afford to lose time on things like that.  And as a perfectionist, it's dangerous because I will totally get sucked in if no one is there to pull me out.  So when we started building this website, being able to scale the management of it was an important consideration.
+
+This is an edit
