@@ -1,5 +1,5 @@
 ---
-title: Il s'intègre particulièrement
+title: Il s'intègre 🌈 particulièrement
 post_status: publish
 post_exerpt: This is post excerpt ⚡. Test text
 ---
@@ -8,9 +8,11 @@ As we launch our public website, we want to share a bit about how it was built, 
 
 Hint: we're doing it live in production.
 
-![This is alt](/_images/dir2/dir2-sub1/kali.jpg) {.abcd .efg #image-id}
+![This is alt](/_images/dir2/dir2-sub1/kali.jpg "This is image caption") {.abcd .efg #image-id}
 
 And to be abundantly clear about this this series of posts (and this blog), there won't be any affiliate links, no advertisements — no attempt or possibility for us to make money or sell your data here.  That's just never something we're going to do.  This is really just to help someone who finds themselves in the same spot we were.
+
+![This is image alt](/_images/flower.jpg "This is a flower") {.flower #flower-image}
 
 ## The challenge
 
