@@ -6,6 +6,8 @@ post_exerpt: This is post excerpt ⚡. Test text
 
 As we launch our public website, we want to share a bit about how it was built, and how we're managing it while building a game.  The point isn't to document the build, or to publish general tech tutorials.  More, it's meant to show how we're solving the problem of running and maintaining a public website, when *really* you're trying to build a video game.
 
+![This is alt 2](/_images/dir1/sub-dir1/flower1.jpg "This is image caption 2") 
+
 Hint: we're doing it live in production.
 
 ![This is alt](/_images/dir2/dir2-sub1/kali.jpg "This is image caption") {.abcd .efg #image-id}
